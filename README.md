@@ -59,8 +59,18 @@ Sales analysis stop data gathering manually in order to save 20% business time a
 ##### **Data Analysis using SQL**
 SQL database dump is in db_dump.sql file above. Download db_dump.sql file to your local computer
 Now,
+
 Importing Data to MySQL workbench
 After importing data , we go through with some queries to cleaning up of data.
+
+we have certain unnecessary values in market table to find use below query
+
+          SELECT * FROM market;
+
+Similarly , we can check that transacation table we can see that ceratin negative value in amount which is not possible.
+and we can see that certain transactions are in USD. Hence, filtration of that is also needed by converting into INR.
+
+
 
 
 
