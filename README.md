@@ -54,7 +54,7 @@ It is a project management tool which consists of four components-
 
 Dahboard uncovering sales order insights with latest data available
 Sales team able to take better decisions and prove 10% cost saving of total spend.
-Sales analysis stop data gathering manually in order to save 20% business time andreinvest it value added activity.
+Sales analysis stop data gathering manually in order to save 20% business time and reinvest it value added activity.
 
 
 
