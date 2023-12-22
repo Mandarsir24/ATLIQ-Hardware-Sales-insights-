@@ -16,7 +16,7 @@ which helps to increase the sales of the company.
 So, In this projects we will help a company make its own sales related dashboard using power BI.I get data from Mysql .
 
 ## **Data Exploration**
-### '+' Project Planning using AIMS Grid -
+### + Project Planning using AIMS Grid -
 It is a project management tool which consists of four components-
 
 1.Purpose - (What to do exactly)
@@ -55,6 +55,12 @@ It is a project management tool which consists of four components-
 Dahboard uncovering sales order insights with latest data available
 Sales team able to take better decisions and prove 10% cost saving of total spend.
 Sales analysis stop data gathering manually in order to save 20% business time and reinvest it value added activity.
+
+##### **Data Analysis using SQL**
+SQL database dump is in db_dump.sql file above. Download db_dump.sql file to your local computer
+Now,
+Importing Data to MySQL workbench
+After importing data , we go through with some queries to cleaning up of data.
 
 
 
