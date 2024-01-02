@@ -99,7 +99,9 @@ In power query editore finding the total values having USD as currency.
  
  ![relationship](https://github.com/Mandarsir24/ATLIQ-Hardware-Sales-insights-/assets/152494714/32f37865-5eb8-4ca4-93a7-df7b6f49d3b8)
 
- 
+ DASHBOARD - 
+ ![DASHBOARD 1](https://github.com/Mandarsir24/ATLIQ-Hardware-Sales-insights-/assets/152494714/424ad66a-3e70-4547-a5c5-d8ec0c9bf3ca)
+
 
 
 
